@@ -8,7 +8,7 @@ Based in [Prime Creators](https://primecreators.com), I specialize in full stack
 
 ## Skills & Technologies
 
-nodejs, express, mongodb, nextjs, react, ts
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,nextjs,react,ts&perline=8)](https://skillicons.dev)
 
 ## Top Projects
 
@@ -18,6 +18,7 @@ nodejs, express, mongodb, nextjs, react, ts
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadzayan19&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadzayan19&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Recent Activity
 
