@@ -18,7 +18,7 @@ Based in [Prime Creators](https://primecreators.com), I specialize in full stack
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadzayan19&show_icons=true&theme=radical)
-[![Top Langs](https://gitmystat.vercel.app/top?theme=discord&username=muhammadzayan19&layout=default)
+[![Top Langs](https://gitmystat.vercel.app/top?theme=discord&username=muhammadzayan19&layout=default)]
 
 ## Recent Activity
 
