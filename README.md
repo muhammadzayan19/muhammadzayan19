@@ -22,7 +22,8 @@ Based in [Prime Creators](https://primecreators.com), I specialize in full stack
 • Actively developing [Aucto Bot](https://aucto.xyz) since January 14, 2025.
 
 ## Connect with Me
-• **LinkedIn:** linkedin.com/in/muhammad-zayan-amir
+• **LinkedIn:** linkedin.com/in/muhammad-zayan-amir  
 • **Email:** muhammadzayan1608@gmail.com  
-• **GitHub:** github.com/muhammadzayan19
+• **GitHub:** github.com/muhammadzayan19  
 • **Website:** muhammadzayan.com  
+
