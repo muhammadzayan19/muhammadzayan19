@@ -13,7 +13,7 @@
 I build products that make an impact.
 
 🔭 &nbsp;I'm currently working on **Race Pakistan Projects** & **HURC**  
-🌱 &nbsp;I'm currently learning **React Native &amp; Electron**  
+🌱 &nbsp;I'm currently learning **Docker**  
 👯 &nbsp;I'm looking to collaborate on **Real-Life Projects**  
 💬 &nbsp;Ask me about **anything**  
 😄 &nbsp;Pronouns: **He/Him**
